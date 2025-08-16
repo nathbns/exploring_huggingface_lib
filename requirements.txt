@@ -1,0 +1,9 @@
+transformers
+torch
+evaluate
+datasets
+transformers[torch]
+faiss-cpu
+transformers[sentencepiece]
+numpy
+pandas
