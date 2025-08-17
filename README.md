@@ -30,7 +30,7 @@ pip install -r requirements.txt
 - `very_large_dataset/` - Large-scale data processing examples
 - `model_token_via_hub/` - Model and tokenizer usage via Hugging Face Hub
 
-## 🛠️ Technologies
+## Technologies
 
 - Transformers
 - PyTorch  
